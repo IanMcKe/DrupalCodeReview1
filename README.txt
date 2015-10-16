@@ -1,3 +1,20 @@
+Usernames and whatnot:
+
+Database name: book_db
+database username: root
+database password: root
+
+Drupal admin username: book
+Drupal admin password: book
+
+Drupal reviewer username: book2
+Drupal reviewer username: book2
+
+Drupal user username: Jimmu
+Drupal user password: Jimmu
+
+
+
 
 CONTENTS OF THIS FILE
 ---------------------
